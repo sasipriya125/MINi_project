@@ -1,0 +1,13 @@
+Requirements:
+1. software requirements
+2. project data requirements
+
+software requirements:
+
+a)visual studio
+b)windows OS
+
+project data requirements:
+
+a)Numbers from 0-9 and have to perform some operations like add,sub,mul,div and modulus.
+b)Then we have to perform the process and store the results.
